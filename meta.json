@@ -1,0 +1,23 @@
+{
+  "repo": "freecommander-xe-universal",
+  "product": "FreeCommander XE Universal",
+  "kind": "utility",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zentool-part1",
+  "format": "license-md-zentool-v1",
+  "category": "system-tools",
+  "topics": [
+    "freecommander-xe",
+    "freecommander-windows",
+    "system-tools-desktop",
+    "how-to-install-freecommander",
+    "freecommander-xe-desktop-package",
+    "freecommander-workspace",
+    "freecommander-xe-pro-tools",
+    "freecommander-suite",
+    "zentool-freecommander",
+    "freecommander-xe-tool-9"
+  ],
+  "site": "zentool.art"
+}
